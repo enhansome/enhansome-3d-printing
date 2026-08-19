@@ -1,13 +1,7 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "File Formats"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T09:48:48.420Z",
+    "last_updated": "2026-08-19T09:49:12.804Z",
     "original_repository": "ad-si/awesome-3d-printing",
     "original_repository_sha": "d86089e87ef7503a70d1151a6f38dec6c88cc74f",
     "enhanced_repository": "enhansome/enhansome-3d-printing",
