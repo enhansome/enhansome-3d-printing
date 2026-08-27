@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-26T09:57:13.319Z",
-    "original_repository": "ad-si/awesome-3d-printing",
-    "original_repository_id": 49201610,
+    "last_updated": "2026-08-27T11:17:44.910Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 49201610,
+      "language": null,
+      "last_commit": "2026-08-11T08:50:06Z",
+      "owner": "ad-si",
+      "repo": "awesome-3d-printing",
+      "stars": 1935
+    },
     "original_repository_sha": "d86089e87ef7503a70d1151a6f38dec6c88cc74f",
     "enhanced_repository": "enhansome/enhansome-3d-printing",
     "enhanced_repository_description": null,
