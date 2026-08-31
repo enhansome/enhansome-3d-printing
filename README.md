@@ -3,7 +3,7 @@
 A curated list of awesome 3D printing resources.
 
 > \[!TIP] <sup>Sponsored by:</sup> \
-> **LuaCAD - Solid 3D CAD modeling with Lua** \ <sub>🖥️ [github.com/ad-si/LuaCAD](https://github.com/ad-si/LuaCAD) ⭐ 119 | 🐛 3 | 🌐 Rust | 📅 2026-08-29</sub> \ <sub>🌐 [LuaCAD Website](https://luacad.ad-si.com)</sub>
+> **LuaCAD - Solid 3D CAD modeling with Lua** \ <sub>🖥️ [github.com/ad-si/LuaCAD](https://github.com/ad-si/LuaCAD) ⭐ 119 | 🐛 4 | 🌐 Rust | 📅 2026-08-29</sub> \ <sub>🌐 [LuaCAD Website](https://luacad.ad-si.com)</sub>
 
 ## Contents
 
@@ -652,4 +652,4 @@ Self-Hostable:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
