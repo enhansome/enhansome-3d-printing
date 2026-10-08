@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-10-07T16:27:52.925Z",
+    "last_updated": "2026-10-08T16:27:52.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D printing resources",
@@ -9,11 +9,11 @@
       "id": 49201610,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-11T08:50:06Z",
+      "last_commit": "2026-10-08T09:45:58Z",
       "open_issues": 41,
       "owner": "ad-si",
       "repo": "awesome-3d-printing",
-      "stars": 2000,
+      "stars": 2004,
       "topics": [
         "3d",
         "3d-printer",
@@ -27,7 +27,7 @@
         "slicer"
       ]
     },
-    "original_repository_sha": "d86089e87ef7503a70d1151a6f38dec6c88cc74f",
+    "original_repository_sha": "e91baccfdc5ca96b2f1bdb8d526bb8804ef62bc0",
     "enhanced_repository": "enhansome/enhansome-3d-printing",
     "enhanced_repository_description": null,
     "title": "Awesome 3D Printing with stars"
