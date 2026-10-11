@@ -490,6 +490,7 @@ Self-Hostable:
 
 * [3D Box Generator] - Webapp to generate STL files for boxes of custom size.
 * [3D MakerBench] - Browser-based generators for STL files such as lithophanes, cookie cutters, Gridfinity bins and gears.
+* [3D Print Estimation Studio] - Webapp to estimate 3D print time, filament weight, and material cost from 3D models.
 * [BotQueue] - Control your 3D printers over the internet.
 * [Clara.io] - Cloud-based 3D modeling, animation and rendering.
 * [Filament Price Tracker] - Tracks 3D printing filament prices and price history.
@@ -516,6 +517,8 @@ Self-Hostable:
 [3D Box Generator]: https://github.com/javisperez/box-stl-generator
 
 [3D MakerBench]: https://3dmakerbench.com
+
+[3D Print Estimation Studio]: https://thom-x.github.io/3DPrinEstimation
 
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 
@@ -653,4 +656,4 @@ Self-Hostable:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
