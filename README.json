@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-10-17T12:58:09.823Z",
+    "last_updated": "2026-10-18T13:16:40.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D printing resources",
@@ -10,10 +10,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-16T13:03:42Z",
-      "open_issues": 36,
+      "open_issues": 37,
       "owner": "ad-si",
       "repo": "awesome-3d-printing",
-      "stars": 2028,
+      "stars": 2031,
       "topics": [
         "3d",
         "3d-printer",
