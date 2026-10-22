@@ -174,6 +174,7 @@ A curated list of awesome 3D printing resources.
   import, and export models. (open source)
 * [Solidworks] - 3D CAD design software. (commercial)
 * [SolveSpace] - Minimalist CAD software. (open source)
+* [SOMA] - Desktop app for designing parametric CadQuery models with an AI coding agent, with live 3D preview and STL/STEP export. (open source)
 * [Tinkercad] - Browser based free app for 3D design, electronics, and coding.
 * [Truck] - Rust based CAD Kernel.
 
@@ -214,6 +215,8 @@ A curated list of awesome 3D printing resources.
 [Solidworks]: https://www.solidworks.com/
 
 [SolveSpace]: https://solvespace.com/index.pl
+
+[SOMA]: https://github.com/Kai-Jungsthoefel/SOMA
 
 [Tinkercad]: https://www.tinkercad.com
 
@@ -662,4 +665,4 @@ Self-Hostable:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
