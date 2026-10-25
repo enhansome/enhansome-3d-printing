@@ -436,7 +436,7 @@ Independent:
 Self-Hostable:
 
 * [Manyfold]
-* [PrintStash] - Self-hosted storage and organization system for 3D printing files with automatic tagging, search, and slicer integration.
+* [PrintStash] - Self-hosted library for 3D print files that tracks G-code revisions, slicer settings, and print results, with Moonraker/Klipper printing.
 
 [3D Kitbash]: https://3dkitbash.com
 
@@ -466,7 +466,7 @@ Self-Hostable:
 
 [Manyfold]: https://github.com/manyfold3d/manyfold
 
-[PrintStash]: https://github.com/xiao-villamor/PrintStash
+[PrintStash]: https://www.printstash.org/en/
 
 [MyMiniFactory]: https://www.myminifactory.com/
 
@@ -668,4 +668,4 @@ Self-Hostable:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
