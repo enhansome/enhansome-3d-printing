@@ -3,7 +3,7 @@
 A curated list of awesome 3D printing resources.
 
 > \[!TIP] <sup>Sponsored by:</sup> \
-> **LuaCAD - Solid 3D CAD modeling with Lua** \ <sub>🖥️ [github.com/ad-si/LuaCAD](https://github.com/ad-si/LuaCAD) ⭐ 134 | 🐛 3 | 🌐 Rust | 📅 2026-10-11</sub> \ <sub>🌐 [LuaCAD Website](https://luacad.ad-si.com)</sub>
+> **LuaCAD - Solid 3D CAD modeling with Lua** \ <sub>🖥️ [github.com/ad-si/LuaCAD](https://github.com/ad-si/LuaCAD) ⭐ 135 | 🐛 3 | 🌐 Rust | 📅 2026-10-11</sub> \ <sub>🌐 [LuaCAD Website](https://luacad.ad-si.com)</sub>
 
 ## Contents
 
@@ -229,7 +229,7 @@ A curated list of awesome 3D printing resources.
 ## Control Software
 
 * [Bambuddy] - Self-hosted print management tool for Bambu Lab printers with real-time monitoring, print archiving, scheduling, and notifications.
-* [Kiln] - MCP server for AI agents to control 3D printers.
+* [Kiln] - MCP server for AI agents to control 3D printers. Can also design printable parts with OpenSCAD, with Git-style version history.
 * [OctoPrint] - Web interface for 3D printer.
 * [Polar3D] - Cloud platform for remotely monitoring and controlling 3D printers from a browser or phone, for individual makers, classrooms, and print farms.
 * [PrintRun] - Pure Python 3d printing host software.
@@ -672,4 +672,4 @@ Self-Hostable:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
