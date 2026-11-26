@@ -237,6 +237,7 @@ A curated list of awesome 3D printing resources.
 * [Kiln] - MCP server for AI agents to control 3D printers. Can also design printable parts with OpenSCAD, with Git-style version history.
 * [OctoPrint] - Web interface for 3D printer.
 * [Polar3D] - Cloud platform for remotely monitoring and controlling 3D printers from a browser or phone, for individual makers, classrooms, and print farms.
+* [Printer Tools] - Native Apple and Android dashboard for managing 3D printers from different brands, with real-time print status, live cameras, and file management.
 * [PrintRun] - Pure Python 3d printing host software.
 * [Repetier] - Place, slice, preview and print.
 * [SimplyPrint] - Cloud-based platform for remote monitoring, management, and automation of 3D printers.
@@ -249,6 +250,8 @@ A curated list of awesome 3D printing resources.
 [OctoPrint]: https://octoprint.org
 
 [Polar3D]: https://polar3d.com
+
+[Printer Tools]: https://printertools.app/
 
 [PrintRun]: https://github.com/kliment/Printrun
 
@@ -677,4 +680,4 @@ Self-Hostable:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
